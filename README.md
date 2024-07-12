@@ -30,9 +30,6 @@ project_folder
 <img width="438" alt="enter" src="https://github.com/ashminarai/Realtime-chatapplication/assets/85731866/fa901f66-2d17-44e4-a2cd-32dfa95d5e28">
 
 
-**8. Following that, you'll be able to engage in a conversation. Additionally, you'll receive a messenger sound when you get a notification about receiving a message from someone :)**
-
-<img width="1429" alt="Conversation" src="https://github.com/ashminarai/Realtime-chatapplication/assets/85731866/3d5ca219-7d70-4822-bd91-541031254832">
 
 
 
