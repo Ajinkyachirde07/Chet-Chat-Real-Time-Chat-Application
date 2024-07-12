@@ -29,19 +29,6 @@ project_folder
 
 <img width="438" alt="enter" src="https://github.com/ashminarai/Realtime-chatapplication/assets/85731866/fa901f66-2d17-44e4-a2cd-32dfa95d5e28">
 
-**6. After joining, you can see a simple GUI.**
-
-<img width="1437" alt="gui" src="https://github.com/ashminarai/Realtime-chatapplication/assets/85731866/74076f48-77a9-4b86-a262-61ea8798a3b1">
-
-**7. You can see when new users joined or left the chat.**
-
-**#Joined the chat**
-
-<img width="1420" alt="Join" src="https://github.com/ashminarai/Realtime-chatapplication/assets/85731866/6e4b9f6c-d3c5-4435-8503-d63313af0ac3">
-
-**#Left the chat**
-
-<img width="1440" alt="Left" src="https://github.com/ashminarai/Realtime-chatapplication/assets/85731866/73458080-d9e9-429a-acd4-ff221659e357">
 
 **8. Following that, you'll be able to engage in a conversation. Additionally, you'll receive a messenger sound when you get a notification about receiving a message from someone :)**
 
