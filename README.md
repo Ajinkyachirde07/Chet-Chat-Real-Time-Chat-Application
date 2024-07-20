@@ -27,7 +27,9 @@ project_folder
 
 **5. Enter your name to join the chat**
 
-<img width="438" alt="enter" src="https://github.com/ashminarai/Realtime-chatapplication/assets/85731866/fa901f66-2d17-44e4-a2cd-32dfa95d5e28">
+
+
+
 
 
 
