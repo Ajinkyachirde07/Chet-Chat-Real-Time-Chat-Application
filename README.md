@@ -29,23 +29,24 @@ project_folder
 
 <img width="438" alt="enter" src="https://github.com/Ajinkyachirde07/Chet-Chat-Real-Time-Chat-Application/blob/main/Chet-Chat%20Real%20Time%20Chat%20Application/Images/chat%20img%203.png">
 
-**6. After joining, you can see a simple GUI.**
+**6. After joining, you can see a Home GUI.**
 
-<img width="1437" alt="gui" src="https://github.com/ashminarai/Realtime-chatapplication/assets/85731866/74076f48-77a9-4b86-a262-61ea8798a3b1">
+<img width="1437" alt="gui" src="https://github.com/Ajinkyachirde07/Chet-Chat-Real-Time-Chat-Application/blob/main/Chet-Chat%20Real%20Time%20Chat%20Application/Images/chat7.png">
 
 **7. You can see when new users joined or left the chat.**
 
 **#Joined the chat**
 
-<img width="1420" alt="Join" src="https://github.com/ashminarai/Realtime-chatapplication/assets/85731866/6e4b9f6c-d3c5-4435-8503-d63313af0ac3">
+<img width="1420" alt="Join" src="https://github.com/Ajinkyachirde07/Chet-Chat-Real-Time-Chat-Application/blob/main/Chet-Chat%20Real%20Time%20Chat%20Application/Images/chat%208.png">
 
 **#Left the chat**
 
-<img width="1440" alt="Left" src="https://github.com/ashminarai/Realtime-chatapplication/assets/85731866/73458080-d9e9-429a-acd4-ff221659e357">
+<img width="1440" alt="Left" src="https://github.com/Ajinkyachirde07/Chet-Chat-Real-Time-Chat-Application/blob/main/Chet-Chat%20Real%20Time%20Chat%20Application/Images/chat10.png">
 
 **8. Following that, you'll be able to engage in a conversation. Additionally, you'll receive a messenger sound when you get a notification about receiving a message from someone :)**
 
-<img width="1429" alt="Conversation" src="https://github.com/ashminarai/Realtime-chatapplication/assets/85731866/3d5ca219-7d70-4822-bd91-541031254832">
+<img width="1429" alt="Conversation" src="https://github.com/Ajinkyachirde07/Chet-Chat-Real-Time-Chat-Application/blob/main/Chet-Chat%20Real%20Time%20Chat%20Application/Images/chat%206.png">
+<img width="1429" alt="Conversation" src="https://github.com/Ajinkyachirde07/Chet-Chat-Real-Time-Chat-Application/blob/main/Chet-Chat%20Real%20Time%20Chat%20Application/Images/chat4.png">
 
 
 
