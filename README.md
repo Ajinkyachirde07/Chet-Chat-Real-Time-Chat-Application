@@ -27,7 +27,7 @@ project_folder
 
 **5. Enter your name to join the chat**
 
-<img width="438" alt="enter" src="https://github.com/ashminarai/Realtime-chatapplication/assets/85731866/fa901f66-2d17-44e4-a2cd-32dfa95d5e28">
+<img width="438" alt="enter" src="https://github.com/Ajinkyachirde07/Chet-Chat-Real-Time-Chat-Application/blob/main/Chet-Chat%20Real%20Time%20Chat%20Application/Images/chat%20img%203.png">
 
 **6. After joining, you can see a simple GUI.**
 
